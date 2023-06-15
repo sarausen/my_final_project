@@ -1,0 +1,23 @@
+.header {
+  background-color: #fe8514;
+}
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+h3 {
+  width: 80px;
+  text-align: center;
+  color: #fff;
+}
+.header__h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
